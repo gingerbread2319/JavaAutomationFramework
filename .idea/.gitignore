@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+.idea/
+.idea/libraries/
+*.iml
+*.iws
+*.ipr
+
+# Maven target directory
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
