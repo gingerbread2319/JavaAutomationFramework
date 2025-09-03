@@ -4,6 +4,8 @@
 
 .idea/
 .idea/libraries/
+.idea/encodings.xml
+.idea/uiDesigner.xml
 *.iml
 *.iws
 *.ipr
